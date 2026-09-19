@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1c0f0a"/>
+      <stop offset="45%" stop-color="#2a1410"/>
+      <stop offset="100%" stop-color="#1c0f0a"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFA35C" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF5B33" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#E2352A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="60" fill="url(#footerGrad)"/>
+  <rect x="0" y="0" width="1200" height="2.5" fill="url(#footerLine)"/>
+</svg>
